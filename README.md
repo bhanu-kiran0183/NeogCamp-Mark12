@@ -10,4 +10,4 @@
 * JavaScript
 
 ## Live Project
-[FunWithTriangle](https://funwithtriangles-m12.netlify.app/)
+[FunWithTriangle](https://bright-kulfi-1e2668m12.netlify.app/)
